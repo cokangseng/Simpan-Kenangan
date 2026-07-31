@@ -47,7 +47,8 @@
 <link rel="alternate" hreflang="id" href="https://hidalgo-quadratin.shop/"/>
 <link rel="alternate" hreflang="en" href="https://hidalgo-quadratin.shop/"/>
 <link rel="alternate" hreflang="x-default" href="https://hidalgo-quadratin.shop/"/>
-
+<meta name="google-site-verification" content="rJ-K7fXWLS_SM83drccxEsyGT2yogC7als5j-o1_-0I" />
+<meta name="google-site-verification" content="RICAvoAsBHz9ku5X3htujteRegRJ20XsyM22k88-aLg" />
 <!--KB6WK8EHVmVHTESzwSWVMjZ6KU8vWqCH-->
 <!--2a1s2GN9TUKbwHv3HvawyC8mbXQAIuWc-->
 <!--vi7727dwaRtKsPIHEXMsLQoewBm0jClQ-->
