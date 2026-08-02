@@ -50,6 +50,7 @@
   <meta property="product:condition" content="new">
   <meta content='TeePublic' name='apple-mobile-web-app-title'>
   <script>
+    <meta name="google-site-verification" content="OZKmdRHKNwvVoE2I2i4ia3DN1bZ0Dhi_CByUWYRpd0g" />
    window.dataLayer = window.dataLayer || [];
   </script>
   <script>
