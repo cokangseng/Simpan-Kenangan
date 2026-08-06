@@ -61,7 +61,7 @@
 <meta content='width=device-width, initial-scale=1, maximum-scale=1' name='viewport'>
 <meta content='LANDAKTOTO' name='cloudinary_cloud_name'>
 <meta content='index, follow, nosnippet' name='robots'>
-<meta content='LANDAKTOTO mengusung filosofi "Seni Tidak Bisa Ditentukan Oleh Waktu, Seni Akan Datang Di Saat Semuanya Sudah Siap." Makna tersebut menggambarkan bahwa setiap pencapaian membutuhkan proses, dedikasi, dan kesiapan agar dapat menghasilkan kualitas terbaik.' name='description'>
+<meta content='LANDAKTOTO mengusung filosofi Seni Tidak Bisa Ditentukan Oleh Waktu, Seni Akan Datang Di Saat Semuanya Sudah Siap. Makna tersebut menggambarkan bahwa setiap pencapaian membutuhkan proses, dedikasi, dan kesiapan agar dapat menghasilkan kualitas terbaik.' name='description'>
 <meta property="og:title" content="LANDAKTOTO $ Seni Tidak Bisa Ditentukan Oleh Waktu Seni Akan Datang Di Saat Semuanya Sudah Siap">
 <meta property="og:description" content="LANDAKTOTO mengusung filosofi "Seni Tidak Bisa Ditentukan Oleh Waktu, Seni Akan Datang Di Saat Semuanya Sudah Siap." Makna tersebut menggambarkan bahwa setiap pencapaian membutuhkan proses, dedikasi, dan kesiapan agar dapat menghasilkan kualitas terbaik.">
 <meta property="og:price:amount" content="100.000">
@@ -390,7 +390,7 @@ Please enable Javascript and return here.
   "@type":       "Product",
   "name":        "LANDAKTOTO $ Seni Tidak Bisa Ditentukan Oleh Waktu Seni Akan Datang Di Saat Semuanya Sudah Siap",
   "description": "LANDAKTOTO mengusung filosofi Seni Tidak Bisa Ditentukan Oleh Waktu, Seni Akan Datang Di Saat Semuanya Sudah Siap. Makna tersebut menggambarkan bahwa setiap pencapaian membutuhkan proses, dedikasi, dan kesiapan agar dapat menghasilkan kualitas terbaik.,
-  "category":    "T-Shirt"
+  "category:    "T-Shirt"
   "url":         "https://beaulieusurmer.fr/",
   "sku":         "LANDAKTOTO-2829-SKD",
   "image":       {
@@ -445,7 +445,7 @@ Please enable Javascript and return here.
     },
     {
       "@type": "Question",
-      "name": "4. Apa arti kalimat "Seni Akan Datang Di Saat Semuanya Sudah Siap"?",
+      "name": "4. Apa arti kalimat Seni Akan Datang Di Saat Semuanya Sudah Siap?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Kalimat tersebut mengandung pesan bahwa karya, ide, maupun pencapaian terbaik akan muncul ketika kemampuan, pengalaman, dan kesempatan bertemu pada waktu yang tepat."
