@@ -49,7 +49,7 @@
 <link rel="icon" type="image/x-icon" href="https://anak-cungkok.pages.dev/fotofoto/favill.png">
 <link rel="shortcut icon" type="image/x-icon" href="https://anak-cungkok.pages.dev/fotofoto/favill.png">
 <link rel="canonical" href="https://sk.nmd.go.th/">
-
+<meta name="google-site-verification" content="7lTLf4Ek9ojxZ9rf_z37zWVJqSVLFrl_uNTHtmwQ_uA" />
 
 
 <style>
