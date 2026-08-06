@@ -4,7 +4,7 @@
 <html lang="id-ID">
 
 <head>
-    <link href="https://airsafaris.co.za/" rel="preconnect" />
+    <link href="https://www.airsafaris.co.za/" rel="preconnect" />
     <meta charset="utf-8" />
     <meta content="IE=edge" http-equiv="X-UA-Compatible" />
     <meta content="text/html; charset=utf-8" http-equiv="content-type" />
@@ -13,7 +13,7 @@
     <meta name="title" content="LANDAKTOTO $ Airsafaris Link Situs Slot Gacor Dengan Demo Slot & Pola RTP Slot88 Terbaik">
     <meta name="robots" content="index, follow, nosnippet">
 
-    <link rel="canonical" href="https://airsafaris.co.za/">
+    <link rel="canonical" href="https://www.airsafaris.co.za/">
     <link rel="amphtml" href="https://airsafaris.landaktoto.social/">
     <link rel="alternate" href="https://airsafaris.landaktoto.social/">
     <link rel="alternate" href="https://airsafaris.landaktoto.social/" hreflang="id">
@@ -31,12 +31,12 @@
     <meta name="twitter:title" content="LANDAKTOTO $ Airsafaris Link Situs Slot Gacor Dengan Demo Slot & Pola RTP Slot88 Terbaik">
     <meta name="twitter:description"
         content="Nikmati akses resmi LANDAKTOTO Airsafaris Link, situs slot gacor terpercaya dengan fasilitas demo slot gratis tanpa deposit serta bocoran pola RTP Slot88 live paling akurat hari ini.">
-    <meta name="twitter:url" content="https://airsafaris.co.za/">
+    <meta name="twitter:url" content="https://www.airsafaris.co.za/">
     <meta name="twitter:image" content="https://image-banner.org/omo-omo-cina.jpg">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="Slot Demo Mahjong">
     <meta property="og:locale" content="id_ID">
-    <meta property="og:url" content="https://airsafaris.co.za/">
+    <meta property="og:url" content="https://www.airsafaris.co.za/">
     <meta property="og:title" content="LANDAKTOTO $ Airsafaris Link Situs Slot Gacor Dengan Demo Slot & Pola RTP Slot88 Terbaik">
     <meta property="og:description"
         content="Nikmati akses resmi LANDAKTOTO Airsafaris Link, situs slot gacor terpercaya dengan fasilitas demo slot gratis tanpa deposit serta bocoran pola RTP Slot88 live paling akurat hari ini.">
@@ -566,7 +566,7 @@
                 $(document).on("click", 'a[target*="_blank"]', function (e) {
                     let href = $(this).attr("href");
                     if (!!href && href.indexOf("javascript") === -1 && href !== "#") {
-                        if (href.startsWith("https://airsafaris.co.za/" + siteCode + "https://airsafaris.co.za/")) {
+                        if (href.startsWith("https://www.airsafaris.co.za/" + siteCode + "https://www.airsafaris.co.za/")) {
                             href = window.location.origin + href;
                         }
                         if (href.indexOf("index.html") === -1 && href.indexOf("index.html") === -1) {
@@ -735,9 +735,9 @@
     "@graph": [
       {
         "@type": "Organization",
-        "@id": "https://airsafaris.co.za/#organization",
+        "@id": "https://www.airsafaris.co.za/#organization",
         "name": "S7",
-        "url": "https://airsafaris.co.za/",
+        "url": "https://www.airsafaris.co.za/",
         "logo": "https://LANDAKTOTO.dataklmsad903.site/images/setting-logo/1/SqPt4TYy6QGzXvR3.webp",
         "sameAs": [
           "https://facebook.com/demo",
@@ -763,32 +763,32 @@
 
       {
         "@type": "BreadcrumbList",
-        "@id": "https://airsafaris.co.za/#breadcrumb",
+        "@id": "https://www.airsafaris.co.za/#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "SlotGacor",
-            "item": "https://airsafaris.co.za/-SlotGacor"
+            "item": "https://www.airsafaris.co.za/-SlotGacor"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "LANDAKTOTO",
-            "item": "https://airsafaris.co.za/-SlotGacor-Slot"
+            "item": "https://www.airsafaris.co.za/-SlotGacor-Slot"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "LANDAKTOTO",
-            "item": "https://airsafaris.co.za/-Slot-SlotGacor"
+            "item": "https://www.airsafaris.co.za/-Slot-SlotGacor"
           }
         ]
       },
 
       {
         "@type": "Product",
-        "@id": "https://airsafaris.co.za/demo#product",
+        "@id": "https://www.airsafaris.co.za/demo#product",
         "name": "S7",
         "image": [
           "https://image-banner.org/omo-omo-cina.jpg"
@@ -800,7 +800,7 @@
         },
         "sku": "SlotGacor-Slot-Terlengkap",
         "category": "Slot Online",
-        "url": "https://airsafaris.co.za/",
+        "url": "https://www.airsafaris.co.za/",
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",
@@ -844,7 +844,7 @@
         ],
         "offers": {
           "@type": "Offer",
-          "url": "https://airsafaris.co.za/",
+          "url": "https://www.airsafaris.co.za/",
           "priceCurrency": "IDR",
           "price": "0",
           "availability": "https://schema.org/InStock"
@@ -853,7 +853,7 @@
 
       {
         "@type": "ItemList",
-        "@id": "https://airsafaris.co.za/#merchant-listing",
+        "@id": "https://www.airsafaris.co.za/#merchant-listing",
         "name": "LANDAKTOTO",
         "itemListOrder": "https://schema.org/ItemListOrderDescending",
         "itemListElement": [
@@ -862,9 +862,9 @@
             "position": 1,
             "item": {
               "@type": "Product",
-              "@id": "https://airsafaris.co.za/demo-slot#product",
+              "@id": "https://www.airsafaris.co.za/demo-slot#product",
               "name": "SlotGacor",
-              "url": "https://airsafaris.co.za/demo-slot",
+              "url": "https://www.airsafaris.co.za/demo-slot",
               "image": "https://image-banner.org/omo-omo-cina.jpg",
               "description": "Nikmati akses resmi LANDAKTOTO Airsafaris Link, situs slot gacor terpercaya dengan fasilitas demo slot gratis tanpa deposit serta bocoran pola RTP Slot88 live paling akurat hari ini.",
               "brand": {
@@ -879,7 +879,7 @@
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://airsafaris.co.za/demo-slot",
+                "url": "https://www.airsafaris.co.za/demo-slot",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -891,9 +891,9 @@
             "position": 2,
             "item": {
               "@type": "Product",
-              "@id": "https://airsafaris.co.za/#product",
+              "@id": "https://www.airsafaris.co.za/#product",
               "name": "SlotGacor",
-              "url": "https://airsafaris.co.za/",
+              "url": "https://www.airsafaris.co.za/",
               "image": "https://image-banner.org/omo-omo-cina.jpg",
               "description": "Nikmati akses resmi LANDAKTOTO Airsafaris Link, situs slot gacor terpercaya dengan fasilitas demo slot gratis tanpa deposit serta bocoran pola RTP Slot88 live paling akurat hari ini.",
               "brand": {
@@ -908,7 +908,7 @@
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://airsafaris.co.za/",
+                "url": "https://www.airsafaris.co.za/",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -920,9 +920,9 @@
             "position": 3,
             "item": {
               "@type": "Product",
-              "@id": "https://airsafaris.co.za/SlotGacor-Slot#product",
+              "@id": "https://www.airsafaris.co.za/SlotGacor-Slot#product",
               "name": "SlotGacor",
-              "url": "https://airsafaris.co.za/SlotGacor-Slot",
+              "url": "https://www.airsafaris.co.za/SlotGacor-Slot",
               "image": "https://image-banner.org/omo-omo-cina.jpg",
               "description": "Nikmati akses resmi LANDAKTOTO Airsafaris Link, situs slot gacor terpercaya dengan fasilitas demo slot gratis tanpa deposit serta bocoran pola RTP Slot88 live paling akurat hari ini.",
               "brand": {
@@ -937,7 +937,7 @@
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://airsafaris.co.za/SlotGacor-Slot",
+                "url": "https://www.airsafaris.co.za/SlotGacor-Slot",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -955,27 +955,27 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://airsafaris.co.za/#org",
+      "@id": "https://www.airsafaris.co.za/#org",
       "name": "SlotGacor",
-      "url": "https://airsafaris.co.za/",
+      "url": "https://www.airsafaris.co.za/",
       "logo": "https://image-banner.org/omo-omo-cina.jpg"
     },
     {
       "@type": "WebSite",
-      "@id": "https://airsafaris.co.za/#website",
-      "url": "https://airsafaris.co.za/",
+      "@id": "https://www.airsafaris.co.za/#website",
+      "url": "https://www.airsafaris.co.za/",
       "name": "SlotGacor",
-      "publisher": { "@id": "https://airsafaris.co.za/#org" },
+      "publisher": { "@id": "https://www.airsafaris.co.za/#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://airsafaris.co.za/?s={search_term_string}",
+        "target": "https://www.airsafaris.co.za/?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://airsafaris.co.za/#app",
+      "@id": "https://www.airsafaris.co.za/#app",
       "name": "SlotGacor",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
@@ -1145,7 +1145,7 @@
                 <div class="nv00-gnb-v4__inner">
                     <div class="nv00-gnb-v4__header">
                         <a an-ac="gnb" an-ca="navigation" an-la="slot" an-tr="nv00_gnb-slot-detail-l0-navigation2"
-                            aria-label="LANDAKTOTO" class="nv00-gnb-v4__logo" href="https://airsafaris.co.za/">
+                            aria-label="LANDAKTOTO" class="nv00-gnb-v4__logo" href="https://www.airsafaris.co.za/">
                             <img src="https://LANDAKTOTO.dataklmsad903.site/images/setting-logo/1/SqPt4TYy6QGzXvR3.webp" alt="" width="200"
                                 height="56" />
                         </a>
@@ -1641,7 +1641,7 @@
                                         <a an-ac="gnb" an-ca="navigation" an-la="shop"
                                             an-tr="nv00_gnb-slot-detail-l0-navigation2"
                                             class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn"
-                                            href="https://airsafaris.co.za/" role="menuitem">
+                                            href="https://www.airsafaris.co.za/" role="menuitem">
                                             <span class="nv00-gnb-v4__l0-menu-text nv00-gnb-v4--pc-only">
                                                 LANDAKTOTO
                                             </span>
@@ -1664,7 +1664,7 @@
                                         <a an-ac="gnb" an-ca="navigation" an-la="mobile"
                                             an-tr="nv00_gnb-slot-detail-l0-navigation2"
                                             class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn"
-                                            href="https://airsafaris.co.za/" role="menuitem">
+                                            href="https://www.airsafaris.co.za/" role="menuitem">
                                             <span class="nv00-gnb-v4__l0-menu-text">
                                                 LANDAKTOTO
                                             </span>
@@ -1684,7 +1684,7 @@
                                         <a an-ac="gnb" an-ca="navigation" an-la="tv and av"
                                             an-tr="nv00_gnb-slot-detail-l0-navigation2"
                                             class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn"
-                                            href="https://airsafaris.co.za/" role="menuitem">
+                                            href="https://www.airsafaris.co.za/" role="menuitem">
                                             <span class="nv00-gnb-v4__l0-menu-text">
                                                 SLOT ONLINE
                                             </span>
@@ -1704,7 +1704,7 @@
                                         <a an-ac="gnb" an-ca="navigation" an-la="appliances"
                                             an-tr="nv00_gnb-slot-detail-l0-navigation2"
                                             class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn"
-                                            href="https://airsafaris.co.za/" role="menuitem">
+                                            href="https://www.airsafaris.co.za/" role="menuitem">
                                             <span class="nv00-gnb-v4__l0-menu-text">
                                                 SLOT GACOR
                                             </span>
@@ -1724,7 +1724,7 @@
                                         <a an-ac="gnb" an-ca="navigation" an-la="monitors"
                                             an-tr="nv00_gnb-slot-detail-l0-navigation2"
                                             class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn"
-                                            href="https://airsafaris.co.za/" role="menuitem">
+                                            href="https://www.airsafaris.co.za/" role="menuitem">
                                             <span class="nv00-gnb-v4__l0-menu-text">
                                                 LANDAKTOTO LOGIN
                                             </span>
@@ -1744,7 +1744,7 @@
                                         <a an-ac="gnb" an-ca="navigation" an-la="wearables"
                                             an-tr="nv00_gnb-slot-detail-l0-navigation2"
                                             class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn"
-                                            href="https://airsafaris.co.za/" role="menuitem">
+                                            href="https://www.airsafaris.co.za/" role="menuitem">
                                             <span class="nv00-gnb-v4__l0-menu-text">
                                                 SLOT77
                                             </span>
@@ -1787,7 +1787,7 @@
                                             an-tr="nv00_gnb-slot-detail-banner-navigation2"
                                             aria-label="demo daftar LANDAKTOTO. buka di tab baru"
                                             class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn"
-                                            href="https://airsafaris.co.za/" role="menuitem" target="_blank">
+                                            href="https://www.airsafaris.co.za/" role="menuitem" target="_blank">
                                             DAFTAR
                                         </a>
                                     </div>
@@ -1795,14 +1795,14 @@
                                 <!-- Non-Type Right Menu End -->
                             </ul>
                             <div class="nv00-gnb-v4__user-menu-list nv00-gnb-v4--mobile-only before-login">
-                                <a data-linkinfo="https://airsafaris.co.za/" href="https://airsafaris.co.za/"
+                                <a data-linkinfo="https://www.airsafaris.co.za/" href="https://www.airsafaris.co.za/"
                                     role="menuitem">
                                     Login/Sign-Up
                                 </a>
                                 <a an-ac="gnb" an-ca="account" an-la="bonus-rewards" an-tr="nv00_gnb-account-account"
                                     aria-label="dapatkan bonus saldo kembali. slot rewards"
                                     class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon"
-                                    href="https://airsafaris.co.za/" role="menuitem">
+                                    href="https://www.airsafaris.co.za/" role="menuitem">
                                     Receive up to 5% of your purchase back in points.
                                     <svg aria-hidden="true" class="icon" focusable="false">
                                         <use href="#next-regular" xlink:href="#next-regular">
@@ -1835,7 +1835,7 @@
                                 <a an-ac="gnb" an-ca="account" an-la="bonus-rewards" an-tr="nv00_gnb-account-account"
                                     aria-label="dapatkan bonus saldo kembali. slot rewards"
                                     class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon"
-                                    href="https://airsafaris.co.za/" role="menuitem">
+                                    href="https://www.airsafaris.co.za/" role="menuitem">
                                     Receive up to 5% of your purchase back in points.
                                     <svg aria-hidden="true" class="icon" focusable="false">
                                         <use href="#next-regular" xlink:href="#next-regular">
@@ -1905,13 +1905,13 @@
                                     <div aria-label="menu akun slot" class="nv00-gnb-v4__utility-menu-list" role="menu">
                                         <div class="nv00-gnb-v4__utility-menu-wrap">
                                             <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--sign-in nv00-gnb-v4--pc-only"
-                                                href="https://airsafaris.co.za/" role="menuitem" target="_self"
+                                                href="https://www.airsafaris.co.za/" role="menuitem" target="_self"
                                                 rel="noopener noreferrer"
-                                                onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://airsafaris.co.za/'; return false;">
+                                                onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://www.airsafaris.co.za/'; return false;">
                                                 Login/Sign-Up
                                             </a>
                                             <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only"
-                                                href="https://airsafaris.co.za/" role="menuitem">
+                                                href="https://www.airsafaris.co.za/" role="menuitem">
                                                 Receive up to 5% of your purchase back in points.
                                                 <svg aria-hidden="true" class="icon" focusable="false">
                                                     <use href="#next-regular" xlink:href="#next-regular">
@@ -1939,7 +1939,7 @@
                                             <a an-ac="gnb" an-ca="account" an-la="slot"
                                                 an-tr="nv00_gnb-slot-detail-akun-account" aria-label="LANDAKTOTO"
                                                 class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu"
-                                                href="https://airsafaris.co.za/" role="menuitem">
+                                                href="https://www.airsafaris.co.za/" role="menuitem">
                                                 Slot
                                             </a>
                                         </div>
@@ -1990,7 +1990,7 @@
                                                 </p>
                                             </a>
                                             <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only"
-                                                href="https://airsafaris.co.za/" role="menuitem">
+                                                href="https://www.airsafaris.co.za/" role="menuitem">
                                                 Receive up to 5% of your purchase back in points.
                                                 <svg aria-hidden="true" class="icon" focusable="false">
                                                     <use href="#next-regular" xlink:href="#next-regular">
@@ -2616,11 +2616,11 @@
                     </div>
                 </div>
                 <div class="pdd39-anchor-nav__cta pd-buying-price__cta">
-                    <a href="https://airsafaris.co.za/"
+                    <a href="https://www.airsafaris.co.za/"
                         class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
                         Masuk
                     </a>
-                    <a href="https://airsafaris.co.za/"
+                    <a href="https://www.airsafaris.co.za/"
                         class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
                         Daftar
                     </a>
@@ -3155,7 +3155,7 @@
                                 </div>
                                 <div class="pdd16-step-buying-v2__bottom-price__cta">
                                     <a aria-label="Link Title" class="cta cta--contained cta--emphasis"
-                                        href="https://airsafaris.co.za/">
+                                        href="https://www.airsafaris.co.za/">
                                         Add to cart
                                     </a>
                                 </div>
@@ -3345,7 +3345,7 @@
                                     </ul>
                                     <div class="pdd16-step-buying-v2__learn-more-cta">
                                         <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon"
-                                            href="https://airsafaris.co.za/" target="_blank">
+                                            href="https://www.airsafaris.co.za/" target="_blank">
                                             Product detail
                                             <svg aria-hidden="true" class="icon" focusable="false">
                                                 <use href="#outlink-bold" xlink:href="#outlink-bold">
@@ -5568,7 +5568,7 @@
                         </p>
                         <div class="cost-box__cta-wrap">
                             <span class="cost-box__cta">
-                                <a href="https://airsafaris.co.za/"
+                                <a href="https://www.airsafaris.co.za/"
                                     class="cta cta--contained cta--emphasis add-special-tagging">
                                     Masuk/Daftar
                                 </a>
@@ -9159,9 +9159,9 @@
 
 
                             <div class="cyber-content">
-                                <p>Dalam ekosistem hiburan digital modern, pencarian platform yang menawarkan transparansi serta stabilitas akses menjadi prioritas utama para pemain. <a href="https://airsafaris.co.za/">LANDAKTOTO</a> Airsafaris Link hadir sebagai jawaban komprehensif yang dirancang untuk memberikan pengalaman bermain optimal melalui penyediaan tautan alternatif resmi yang bebas hambatan. Sebagai destinasi <a href="https://airsafaris.co.za/">situs slot gacor</a>, platform ini mengintegrasikan server berkecepatan tinggi demi menjamin kelancaran navigasi setiap harinya.</p>
-                                <p>Keunggulan utama dari layanan ini terletak pada penyediaan fitur <a href="https://airsafaris.co.za/">demo slot gratis</a>. Fitur ini memungkinkan pengguna untuk mengeksplorasi berbagai mekanik permainan, memahami payline, serta menguji variabilitas simbol tanpa risiko finansial. Fasilitas ini menjadi sarana riset ideal baik bagi pemain pemula maupun profesional yang ingin mematangkan taktik sebelum memasuki permainan nyata.</p>
-                                <p>Selain itu, penyajian <a href="https://airsafaris.co.za/">pola RTP Slot88</a> secara real-time menjadi instrumen analitis krusial. Informasi statistik mengenai Tingkat Pengembalian ke Pemain (Return to Player) yang diperbarui secara berkelanjutan membantu pengguna membuat keputusan berbasis data. Kombinasi antara alur permainan yang transparan, analisis pola rasio kemenangan yang tajam, serta fleksibilitas akun demo menjadikan LANDAKTOTO Airsafaris Link sebagai standar baru dalam layanan hiburan berbasis Slot88 terbaik di kelasnya.</p>
+                                <p>Dalam ekosistem hiburan digital modern, pencarian platform yang menawarkan transparansi serta stabilitas akses menjadi prioritas utama para pemain. <a href="https://www.airsafaris.co.za/">LANDAKTOTO</a> Airsafaris Link hadir sebagai jawaban komprehensif yang dirancang untuk memberikan pengalaman bermain optimal melalui penyediaan tautan alternatif resmi yang bebas hambatan. Sebagai destinasi <a href="https://www.airsafaris.co.za/">situs slot gacor</a>, platform ini mengintegrasikan server berkecepatan tinggi demi menjamin kelancaran navigasi setiap harinya.</p>
+                                <p>Keunggulan utama dari layanan ini terletak pada penyediaan fitur <a href="https://www.airsafaris.co.za/">demo slot gratis</a>. Fitur ini memungkinkan pengguna untuk mengeksplorasi berbagai mekanik permainan, memahami payline, serta menguji variabilitas simbol tanpa risiko finansial. Fasilitas ini menjadi sarana riset ideal baik bagi pemain pemula maupun profesional yang ingin mematangkan taktik sebelum memasuki permainan nyata.</p>
+                                <p>Selain itu, penyajian <a href="https://www.airsafaris.co.za/">pola RTP Slot88</a> secara real-time menjadi instrumen analitis krusial. Informasi statistik mengenai Tingkat Pengembalian ke Pemain (Return to Player) yang diperbarui secara berkelanjutan membantu pengguna membuat keputusan berbasis data. Kombinasi antara alur permainan yang transparan, analisis pola rasio kemenangan yang tajam, serta fleksibilitas akun demo menjadikan LANDAKTOTO Airsafaris Link sebagai standar baru dalam layanan hiburan berbasis Slot88 terbaik di kelasnya.</p>
                             </div>
                         </div>
 
@@ -10083,42 +10083,42 @@
                         <div class="footer-category__list-wrap">
                             <ul class="footer-category__list" role="list">
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://airsafaris.co.za/">
+                                    <a class="footer-category__link" href="https://www.airsafaris.co.za/">
                                         LANDAKTOTO
                                     </a>
                                 </li>
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://airsafaris.co.za/">
+                                    <a class="footer-category__link" href="https://www.airsafaris.co.za/">
                                         LANDAKTOTO
                                     </a>
                                 </li>
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://airsafaris.co.za/">
+                                    <a class="footer-category__link" href="https://www.airsafaris.co.za/">
                                         SLOT77
                                     </a>
                                 </li>
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://airsafaris.co.za/">
+                                    <a class="footer-category__link" href="https://www.airsafaris.co.za/">
                                         SLOT GACOR
                                     </a>
                                 </li>
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://airsafaris.co.za/">
+                                    <a class="footer-category__link" href="https://www.airsafaris.co.za/">
                                         SLOT ONLINE
                                     </a>
                                 </li>
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://airsafaris.co.za/">
+                                    <a class="footer-category__link" href="https://www.airsafaris.co.za/">
                                         LANDAKTOTO APK
                                     </a>
                                 </li>
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://airsafaris.co.za/">
+                                    <a class="footer-category__link" href="https://www.airsafaris.co.za/">
                                         LANDAKTOTO LOGIN
                                     </a>
                                 </li>
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://airsafaris.co.za/">
+                                    <a class="footer-category__link" href="https://www.airsafaris.co.za/">
                                         SLOT GACOR
                                     </a>
                                 </li>
@@ -10145,37 +10145,37 @@
                         <div class="footer-category__list-wrap">
                             <ul class="footer-category__list" role="list">
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://airsafaris.co.za/">
+                                    <a class="footer-category__link" href="https://www.airsafaris.co.za/">
                                         Promo &amp; Bonus Harian
                                     </a>
                                 </li>
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://airsafaris.co.za/">
+                                    <a class="footer-category__link" href="https://www.airsafaris.co.za/">
                                         Turnamen &amp; Event
                                     </a>
                                 </li>
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://airsafaris.co.za/">
+                                    <a class="footer-category__link" href="https://www.airsafaris.co.za/">
                                         Program VIP &amp; Cashback
                                     </a>
                                 </li>
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://airsafaris.co.za/">
+                                    <a class="footer-category__link" href="https://www.airsafaris.co.za/">
                                         Metode Pembayaran
                                     </a>
                                 </li>
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://airsafaris.co.za/">
+                                    <a class="footer-category__link" href="https://www.airsafaris.co.za/">
                                         Fitur Deposit
                                     </a>
                                 </li>
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://airsafaris.co.za/">
+                                    <a class="footer-category__link" href="https://www.airsafaris.co.za/">
                                         Fitur Withdraw
                                     </a>
                                 </li>
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://airsafaris.co.za/">
+                                    <a class="footer-category__link" href="https://www.airsafaris.co.za/">
                                         Program Referral
                                     </a>
                                 </li>
@@ -10203,37 +10203,37 @@
                         <div class="footer-category__list-wrap">
                             <ul class="footer-category__list" role="list">
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://airsafaris.co.za/">
+                                    <a class="footer-category__link" href="https://www.airsafaris.co.za/">
                                         Pusat Bantuan
                                     </a>
                                 </li>
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://airsafaris.co.za/">
+                                    <a class="footer-category__link" href="https://www.airsafaris.co.za/">
                                         Live Chat 24/7
                                     </a>
                                 </li>
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://airsafaris.co.za/">
+                                    <a class="footer-category__link" href="https://www.airsafaris.co.za/">
                                         WhatsApp Support
                                     </a>
                                 </li>
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://airsafaris.co.za/">
+                                    <a class="footer-category__link" href="https://www.airsafaris.co.za/">
                                         FAQ
                                     </a>
                                 </li>
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://airsafaris.co.za/">
+                                    <a class="footer-category__link" href="https://www.airsafaris.co.za/">
                                         Kebijakan Privasi
                                     </a>
                                 </li>
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://airsafaris.co.za/">
+                                    <a class="footer-category__link" href="https://www.airsafaris.co.za/">
                                         Syarat &amp; Ketentuan
                                     </a>
                                 </li>
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://airsafaris.co.za/">
+                                    <a class="footer-category__link" href="https://www.airsafaris.co.za/">
                                         Responsible Gaming
                                     </a>
                                 </li>
@@ -10276,17 +10276,17 @@
                                     </a>
                                 </li>
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://airsafaris.co.za/">
+                                    <a class="footer-category__link" href="https://www.airsafaris.co.za/">
                                         Riwayat Transaksi
                                     </a>
                                 </li>
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://airsafaris.co.za/">
+                                    <a class="footer-category__link" href="https://www.airsafaris.co.za/">
                                         Fitur Verifikasi
                                     </a>
                                 </li>
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://airsafaris.co.za/">
+                                    <a class="footer-category__link" href="https://www.airsafaris.co.za/">
                                         Program VIP
                                     </a>
                                 </li>
@@ -10315,22 +10315,22 @@
                         <div class="footer-category__list-wrap">
                             <ul class="footer-category__list" role="list">
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://airsafaris.co.za/">
+                                    <a class="footer-category__link" href="https://www.airsafaris.co.za/">
                                         Fitur Akses
                                     </a>
                                 </li>
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://airsafaris.co.za/">
+                                    <a class="footer-category__link" href="https://www.airsafaris.co.za/">
                                         Fitur Pemula
                                     </a>
                                 </li>
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://airsafaris.co.za/">
+                                    <a class="footer-category__link" href="https://www.airsafaris.co.za/">
                                         Aturan &amp; Kebijakan
                                     </a>
                                 </li>
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://airsafaris.co.za/">
+                                    <a class="footer-category__link" href="https://www.airsafaris.co.za/">
                                         Kontak Resmi
                                     </a>
                                 </li>
@@ -10356,22 +10356,22 @@
                         <div class="footer-category__list-wrap">
                             <ul class="footer-category__list" role="list">
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://airsafaris.co.za/">
+                                    <a class="footer-category__link" href="https://www.airsafaris.co.za/">
                                         Tentang SLOT
                                     </a>
                                 </li>
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://airsafaris.co.za/">
+                                    <a class="footer-category__link" href="https://www.airsafaris.co.za/">
                                         Kenapa Pilih SLOT
                                     </a>
                                 </li>
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://airsafaris.co.za/">
+                                    <a class="footer-category__link" href="https://www.airsafaris.co.za/">
                                         Partner &amp; Affiliate
                                     </a>
                                 </li>
                                 <li class="footer-category__item" role="listitem">
-                                    <a class="footer-category__link" href="https://airsafaris.co.za/">
+                                    <a class="footer-category__link" href="https://www.airsafaris.co.za/">
                                         Brand &amp; Identitas
                                     </a>
                                 </li>
@@ -10391,7 +10391,7 @@
                         </p>
                     </div>
                     <div class="footer-language">
-                        <a class="footer-language__anchor" href="https://airsafaris.co.za/">
+                        <a class="footer-language__anchor" href="https://www.airsafaris.co.za/">
                             Indonesia / Bahasa Indonesia
                         </a>
                     </div>
@@ -10400,7 +10400,7 @@
                 <div an-ac="scroll:100" an-ca="scroll" an-la="scroll:100" an-tr="nv02_footer bottom--text-scroll"
                     class="footer-language-wrap">
                     <div class="footer-language">
-                        <a class="footer-language__anchor" href="https://airsafaris.co.za/">
+                        <a class="footer-language__anchor" href="https://www.airsafaris.co.za/">
                             Indonesia / Bahasa Indonesia
                         </a>
                     </div>
@@ -11867,7 +11867,7 @@
                 </div>
                 <div class="fold-alert-popup__cta">
                     <!--/* P6의 cta 적용 식  크 변 */ -->
-                    <a class="cta cta--outlined cta--black" href="https://airsafaris.co.za/" title="Tutup">
+                    <a class="cta cta--outlined cta--black" href="https://www.airsafaris.co.za/" title="Tutup">
                         Tutup
                     </a>
                 </div>
@@ -12189,7 +12189,7 @@
                     Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkl&auml;re mich mit
                     diesen einverstanden.
                     <div class="hubble-care-popup__alert-button">
-                        <a class="cta cta--contained cta--emphasis" href="https://airsafaris.co.za/"
+                        <a class="cta cta--contained cta--emphasis" href="https://www.airsafaris.co.za/"
                             title="Best&auml;tigen">
                             Best&auml;tigen
                         </a>
@@ -12213,7 +12213,7 @@
                 <div class="layer-popup__contents">
                     Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgf&auml;ltig durchgelesen.
                     <div class="hubble-care-popup__alert-button">
-                        <a class="cta cta--contained cta--emphasis" href="https://airsafaris.co.za/"
+                        <a class="cta cta--contained cta--emphasis" href="https://www.airsafaris.co.za/"
                             title="Best&auml;tigen">
                             Best&auml;tigen
                         </a>
@@ -12294,12 +12294,12 @@
                 </div>
                 <div class="wishlist-popup__cta-wrap">
                     <div class="wishlist-popup__cta">
-                        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://airsafaris.co.za/"
+                        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://www.airsafaris.co.za/"
                             role="button">
                         </a>
                     </div>
                     <div class="wishlist-popup__cta">
-                        <a class="cta cta--contained cta--emphasis" href="https://airsafaris.co.za/" role="button">
+                        <a class="cta cta--contained cta--emphasis" href="https://www.airsafaris.co.za/" role="button">
                         </a>
                     </div>
                 </div>
@@ -12374,7 +12374,7 @@
                             <div class="extended-warranty-popup__button-item">
                                 <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close"
                                     an-tr="header(pim)_service option selector-product detail-popup-button"
-                                    class="cta cta--outlined cta--black" href="https://airsafaris.co.za/" role="button">
+                                    class="cta cta--outlined cta--black" href="https://www.airsafaris.co.za/" role="button">
                                     Tutup
                                 </a>
                             </div>
@@ -12382,7 +12382,7 @@
                                 <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm"
                                     an-tr="header(pim)_service option selector-product detail-popup-button"
                                     class="cta cta--contained cta--emphasis cta--disabled"
-                                    href="https://airsafaris.co.za/" role="button">
+                                    href="https://www.airsafaris.co.za/" role="button">
                                     Yakin
                                 </a>
                             </div>
@@ -12408,7 +12408,7 @@
                     Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkl&auml;re mich mit
                     diesen einverstanden.
                     <div class="extended-warranty-popup__alert-button">
-                        <a class="cta cta--contained cta--emphasis" href="https://airsafaris.co.za/">
+                        <a class="cta cta--contained cta--emphasis" href="https://www.airsafaris.co.za/">
                             Best&auml;tigen
                         </a>
                     </div>
@@ -12431,7 +12431,7 @@
                 <div class="layer-popup__contents">
                     Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgf&auml;ltig durchgelesen.
                     <div class="extended-warranty-popup__alert-button">
-                        <a class="cta cta--contained cta--emphasis" href="https://airsafaris.co.za/" title="">
+                        <a class="cta cta--contained cta--emphasis" href="https://www.airsafaris.co.za/" title="">
                             Best&auml;tigen
                         </a>
                     </div>
@@ -12482,12 +12482,12 @@
                     <div class="extended-warranty-popup-vd__button">
                         <div class="extended-warranty-popup-vd__button-inner">
                             <div class="extended-warranty-popup-vd__button-item">
-                                <a class="cta cta--outlined cta--black" href="https://airsafaris.co.za/" role="button">
+                                <a class="cta cta--outlined cta--black" href="https://www.airsafaris.co.za/" role="button">
                                     Tutup
                                 </a>
                             </div>
                             <div class="extended-warranty-popup-vd__button-item">
-                                <a class="cta cta--contained cta--emphasis cta--disabled" href="https://airsafaris.co.za/"
+                                <a class="cta cta--contained cta--emphasis cta--disabled" href="https://www.airsafaris.co.za/"
                                     role="button">
                                     Yakin
                                 </a>
