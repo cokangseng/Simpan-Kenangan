@@ -390,7 +390,7 @@ Please enable Javascript and return here.
   "@type":       "Product",
   "name":        "LANDAKTOTO $ Seni Tidak Bisa Ditentukan Oleh Waktu Seni Akan Datang Di Saat Semuanya Sudah Siap",
   "description": "LANDAKTOTO mengusung filosofi Seni Tidak Bisa Ditentukan Oleh Waktu, Seni Akan Datang Di Saat Semuanya Sudah Siap. Makna tersebut menggambarkan bahwa setiap pencapaian membutuhkan proses, dedikasi, dan kesiapan agar dapat menghasilkan kualitas terbaik.,
-  "category":    T-Shirt"
+  "ca
   "url":         "https://beaulieusurmer.fr/",
   "sku":         "LANDAKTOTO-2829-SKD",
   "image":       {
